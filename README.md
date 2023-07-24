@@ -6,7 +6,7 @@ _I designed and coded a little 2D game where you have to run away from the black
 
 ### [Cube3D](https://github.com/tomah56/cube3D)
 
-_[Olawale]() and me created a small 3D game. Based on the a very famous [Wolfenstein_3D](https://en.wikipedia.org/wiki/Wolfenstein_3D). Learned about [Ray_casting]([Wolfenstein_3D](https://en.wikipedia.org/wiki/Ray_casting) and game developing._
+_[Olawale]() and me created a small 3D game. Based on the a very famous [Wolfenstein_3D](https://en.wikipedia.org/wiki/Wolfenstein_3D). Learned about [Ray_casting](https://en.wikipedia.org/wiki/Ray_casting) and game developing._
 
 ### [Mini-shell](https://github.com/tomah56/minishell)
 
