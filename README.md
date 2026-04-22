@@ -55,15 +55,6 @@ Led the engineering of an AI-powered content moderation tool built during a chil
 
 End-to-end computer vision pipeline for leaf disease classification. Covers image acquisition, preprocessing, feature extraction, and decision output — demonstrating the full ML engineering lifecycle from raw data to actionable inference.
 
----
-
-### [Telegram Notification Agent](https://github.com/tomah56/telegram_bot_api)
-> *Python · FastAPI · Telegram Bot API · Docker*
-
-A lightweight automated notification agent: services push events to a REST endpoint, and the agent autonomously routes critical warnings to a Telegram channel while persisting informational events. Designed for extensibility — easily adapted to Slack, PagerDuty, or any webhook target.
-
----
-
 ### [Multilayer Perceptron](https://github.com/tomah56/multilayer_perceptron) · [Linear Regression](https://github.com/tomah56/linear_regression) · [Logistic Regression](https://github.com/tomah56/datascience_X_Logistic_Regression_dslr)
 > *Python · NumPy · Data Science*
 
