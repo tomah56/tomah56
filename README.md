@@ -108,7 +108,8 @@ I have consistently operated at the intersection of technical execution and team
 | **42 Get Next Line Gamified** | Idea originator & team lead | 24-hour in-house 42 hackathon, 5-person team |
 | **Satellite Control** | Full-stack engineer | LeanSpace external hackathon — API integration & UX |
 | **ft_transcendence** | Co-architect | 3-person team, end-to-end product delivery |
-| **Bipolara (Startup)** | Founder / Lead Engineer | Campus Founders Talent Scholarship programme |
+| **Bipolara (Startup)** | Founder / Lead Engineer | Mental Health app development |
+| **DiceDashers (Startup)** | Founder / Lead Engineer | Lead your life app development |
 | **Webserv** | Co-architect | Spec-driven HTTP server, multi-person codebase |
 
 **Management approach:** I establish clear ownership early, favour async-friendly documentation (Swagger, structured READMEs, Docker-first setups), and run lightweight retros after delivery sprints to improve team velocity.
@@ -117,15 +118,17 @@ I have consistently operated at the intersection of technical execution and team
 
 ## Entrepreneurship
 
+### DiceDashers
+
 ### [Bipolara](https://github.com/tomah56/bipolara_app)
 > *Startup · Full-Stack · Campus Founders*
 
-Building the technical backbone of Bipolara — a startup developed as part of the [Campus Founders Talent Scholarship](https://campusfounders.de/talent/talent-scholarship-program/). Responsible for architecture, backend, and product decisions from day zero.
+Building the technical backbone of Bipolara. Responsible for architecture, backend, and product decisions from day zero.
 
 ### [AhriO](https://github.com/tomah56/kalleweb)
-> *HTML · CSS · Startup Landing Page*
+> *Startup · Campus Founders*· Startup Landing Page*
 
-Designed and built the public web presence for an early-stage startup venture, balancing brand identity with conversion-focused layout.
+Designed and built the public web presence for an early-stage startup venture, a startup developed as part of the [Campus Founders Talent Scholarship](https://campusfounders.de/talent/talent-scholarship-program/).
 
 ---
 
@@ -133,6 +136,7 @@ Designed and built the public web presence for an early-stage startup venture, b
 
 | Event | Project | Outcome |
 |---|---|---|
+| **Future City** | |
 | **Child Safety Hackathon** | AI content moderation tool | Shipped in 24 h — Chrome ext + API + tests |
 | **42 Internal Hackathon** | [Get Next Line Gamified](https://github.com/tomah56/42_hackatlon) | Turned 42 projects into a playable learning game |
 | **LeanSpace Hackathon** | [Satellite Control](https://github.com/tomah56/leanspace_-hackathon) | Optimal satellite routing via external API |
@@ -155,7 +159,7 @@ Polynomial equation solver built from scratch — parses, reduces, and solves up
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomah56&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tomah56&show_icons=false&theme=dark&hide_border=true&count_private=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomah56&layout=compact&theme=dark&hide_border=true" height="150"/>
 </p>
 
