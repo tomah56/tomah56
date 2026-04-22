@@ -159,7 +159,7 @@ Polynomial equation solver built from scratch — parses, reduces, and solves up
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomah56&show_icons=false&theme=dark&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tomah56&show_icons=true&theme=dark&hide_border=true&hide_rank=true&count_private=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomah56&layout=compact&theme=dark&hide_border=true" height="150"/>
 </p>
 
