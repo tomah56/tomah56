@@ -159,10 +159,16 @@ Polynomial equation solver built from scratch — parses, reduces, and solves up
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomah56&show_icons=true&theme=dark&hide_border=true&hide_rank=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomah56&layout=compact&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tomah56&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomah56&layout=compact&theme=dark&hide_border=true&include_all_commits=true" height="150"/>
 </p>
 
+---
+
+---
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tomah56&theme=dark&hide_border=true" height="150"/>
+</p>
 ---
 
 <p align="center"><em>Try & Error. Get lost inside the details. Not sleep or hunger can stop the debug. Solving the problem almost comes before surviving. The lion runs but just keep coding.</em></p>
